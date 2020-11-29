@@ -30,8 +30,9 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'fe9788437533.ngrok.io',
-]
+    '9aea30de1ad6.ngrok.io',
+    '127.0.0.1',
+    ]
 
 
 # Application definition
