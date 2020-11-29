@@ -31,7 +31,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'jmc-boutiqu.herokuapp.com',
+    'jmc-boutique.herokuapp.com/',
     'localhost',
     '3572f527c1da.ngrok.io',
     '127.0.0.1',
